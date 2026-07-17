@@ -1,1 +1,6 @@
+# Ignore the raw data spreadsheet
+Financial_Loan_Dataset.xlsx
 
+# Optional: If you ever want to ignore local Power BI autosave/temp files
+*.tmp
+**/DataMashup
