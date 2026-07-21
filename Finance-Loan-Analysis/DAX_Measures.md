@@ -19,7 +19,7 @@ SUM('Fact_Loan'[Loan Amount])
 ---
 
 ### Total Amount Received
-
+ 
 ```DAX
 Total Amount Received =
 SUM('Fact_Loan'[Total Payment Received])
