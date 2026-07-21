@@ -1,6 +1,5 @@
 # Financial Credit Risk Analytics Dashboard
 
-[!["View Dashboard Live"](https://img.shields.io/badge/Live_Report-Power_BI_Service-yellow?logo=powerbi&style=for-the-badge)](Power_Bi_Projects/blob/main/Finance-Loan-Analysis/Finance_Loan_Analysis.pbix)
 [!["Kaggle Dataset"](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/datasets/datawitharyan/financial-loan-dataset)
 
 ## 📌 Executive Business Problem
